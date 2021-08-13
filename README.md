@@ -21,7 +21,7 @@ De startbestanden vind je op de Github Classrooms repository: [https://classroom
 5.  Maak in de map assets/css een nieuw CSS-bestand met als naam style.css .
 5.  Maak een nieuw CSS-bestand met als naam style.css .
 6.  Schrijf je eigen CSS (zoals gezien in de lessen) om de website de gevraagde stijl te geven.
-
+7. Push regelmatig de gemaakte wijzigingen door naar de GitHub repository
 
 Extra info:
 
