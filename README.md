@@ -20,7 +20,6 @@ De startbestanden vind je op de Github Classrooms repository: [https://classroom
 4.  Maak een nieuw CSS-bestand met als naam style.css
 5.  Schrijf je eigen CSS (zoals gezien in de lessen) om de website de gevraagde stijl te geven
 
-**Valideer je HTML regelmatig!** [https://validator.w3.org/#validate_by_input](https://validator.w3.org/#validate_by_input)
 
 Extra info:
 
