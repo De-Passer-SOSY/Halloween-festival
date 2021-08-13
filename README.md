@@ -17,8 +17,10 @@ De startbestanden vind je op de Github Classrooms repository: [https://classroom
 	* Afbeeldingen
 	* Reset.css bestand
 3.  Bekijk de screenshots, hier kan je zien hoe de website er uit moet zien.
-4.  Maak een nieuw CSS-bestand met als naam style.css
-5.  Schrijf je eigen CSS (zoals gezien in de lessen) om de website de gevraagde stijl te geven
+4.  Kopieer de bronbestanden naar een nieuwe map met als naam: Voornaam_Familienaam_HalloweenFestival_HTML_CSS
+5.  Maak in de map assets/css een nieuw CSS-bestand met als naam style.css .
+5.  Maak een nieuw CSS-bestand met als naam style.css .
+6.  Schrijf je eigen CSS (zoals gezien in de lessen) om de website de gevraagde stijl te geven.
 
 
 Extra info:
